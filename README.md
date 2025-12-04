@@ -6,11 +6,17 @@
 
 **● Global Training Dataset Statistics** — **[[Open app]](https://lookerstudio.google.com/reporting/b6fd8fb9-9b81-45d8-a99f-36b88dcd80e1/page/MIJeF)**  
 An application for visualising summary statistics on the current state of the global training dataset, offering multiple views across several parameters with filtering options.
+<img width="850" height="500" alt="Screenshot 2025-12-04 152839" src="https://github.com/user-attachments/assets/dca2449d-d16b-4455-84c5-dc85279ba205" />
 
 **● Training Data Viewer** — **[[Open app]](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)**  
 A google earth engine map to visualises the labelled global training dataset so far. 
+
+<img width="850" height="500" alt="image" src="https://github.com/user-attachments/assets/55e68a47-6d05-47cd-bff0-a40cd2c21c93" />
 
 **● Future Project Planning** — **[[Open app]](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)**  
 
 A google earth engine app that displays the future mapping projects of the global training dataset, click on a project grid to get the unique project ID, number of training points and whether the points fall  within countries that already have ecosystem data present (Data shared with GEA or Engagement Countries).
 Regions with limited ecosystem data or no outreach will be prioritized for annotation.
+
+
+<img width="850" height="500" alt="Screenshot 2025-12-04 152331" src="https://github.com/user-attachments/assets/912cdde7-ad33-4ff6-9ca4-571c9cffc438" />
