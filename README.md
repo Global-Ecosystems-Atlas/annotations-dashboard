@@ -1,22 +1,24 @@
-# Annotations Dashboard
+# Global Ecosystems Atlas Annotations Dashboard
 
-## A set of tools and applications to monitor the development and status of the training dataset
-<br>
-<br>
+## Overview
+A set of tools and applications to monitor the development and status of the Global Ecosystems Atlas training and validation dataset.
 
-## **● Global Training Dataset Statistics** — **[[Open app]](https://lookerstudio.google.com/reporting/b6fd8fb9-9b81-45d8-a99f-36b88dcd80e1/page/MIJeF)**  
-An application for visualising summary statistics on the current state of the global training dataset, offering multiple views across several parameters with filtering options.
+## Global Training Dataset Statistics
+An application for visualising summary statistics on the current state of the global training and validation dataset, offering multiple views across several parameters with filtering options.
+*[Open the Training Dataset statistics app](https://lookerstudio.google.com/reporting/b6fd8fb9-9b81-45d8-a99f-36b88dcd80e1/page/MIJeF)**  
+
 [<img width="850" height="500" alt="Screenshot 2025-12-04 152839" src="https://github.com/user-attachments/assets/dca2449d-d16b-4455-84c5-dc85279ba205" />](https://lookerstudio.google.com/reporting/b6fd8fb9-9b81-45d8-a99f-36b88dcd80e1/page/MIJeF)
 
-## **● Training Data Viewer** — **[[Open app]](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)**  
-A google earth engine map to visualises the labelled global training dataset so far. 
+## Training Data Viewer
+A google earth engine app to visualises the global training and validation dataset and show the distribution of points that have been labelled so far by the JCU Global Ecosystems Atlas annotations team. 
+
+*[Open the Training and Validation Data Viewer app](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)**  
 
 [<img width="850" height="500" alt="image" src="https://github.com/user-attachments/assets/55e68a47-6d05-47cd-bff0-a40cd2c21c93" />](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/trainingdataviewer)
 
-## **● Future Project Planning** — **[[Open app]](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)**  
+## Future Annotations Planning App
+A Google Earth Engine app that displays the future annotation regions of the JCU Global Ecosystems Atlas annotations team. Click on a project grid to get the unique project ID, the number of training and validation points in each project grid, and the number of points that fall within places that are already or expected to be represented in the Global Ecosystems Atlas synthesis map (Data shared with GEA or Engagement Countries). Note: Regions with limited ecosystem data or few engagement opportunities are typically prioritized for annotation.
 
-A google earth engine app that displays the future mapping projects of the global training dataset, click on a project grid to get the unique project ID, number of training points and whether the points fall  within countries that already have ecosystem data present (Data shared with GEA or Engagement Countries).
-Regions with limited ecosystem data or no outreach will be prioritized for annotation.
-
+*[Open the future annotation regions app](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)**  
 
 [<img width="850" height="500" alt="Screenshot 2025-12-04 152331" src="https://github.com/user-attachments/assets/912cdde7-ad33-4ff6-9ca4-571c9cffc438" />](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)
