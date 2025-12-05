@@ -1,7 +1,7 @@
 # Global Ecosystems Atlas Annotations Dashboard
 
 ## Overview
-A set of tools and applications to monitor the development and status of the Global Ecosystems Atlas training and validation dataset.
+The Global Ecosystems Atlas initiative is developing a standard global set of occurrence records of IUCN Ecosystem Functional Groups to support spatial models tasked with estimating the distribution of each Ecosystem Functional Group. This repo houses a set of tools and applications for monitoring the status of the development of the training and validation dataset.
 
 ## Global Training Dataset Statistics
 An application for visualising summary statistics on the current state of the global training and validation dataset, offering multiple views across several parameters with filtering options.
