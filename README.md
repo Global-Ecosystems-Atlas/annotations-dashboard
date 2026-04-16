@@ -20,6 +20,8 @@ A google earth engine app to visualises the global training and validation datas
 ## Future Annotations Planning App
 A Google Earth Engine app that displays the future annotation regions of the JCU Global Ecosystems Atlas annotations team. Click on a project grid to get the unique project ID, the number of training and validation points in each project grid, and the number of points that fall within places that are already or expected to be represented in the Global Ecosystems Atlas synthesis map (Data shared with GEA or Engagement Countries). Note: Regions with limited ecosystem data or few engagement opportunities are typically prioritized for annotation.
 
+**Note, the future planning app is currently undergoing updates. Some layers may be temporarly unavailable to view.**
+
 *[Open the future annotation regions app](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)* 
 
 [<img width="850" height="500" alt="Screenshot 2025-12-04 152331" src="https://github.com/user-attachments/assets/912cdde7-ad33-4ff6-9ca4-571c9cffc438" />](https://geo-global-ecosystems-atlas.projects.earthengine.app/view/futureprojectplanning)
